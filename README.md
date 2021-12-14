@@ -31,3 +31,5 @@ Response example:
 ]
 
 ```
+
+[Swagger](https://resultlistapi.azurewebsites.net/swagger/index.html)
