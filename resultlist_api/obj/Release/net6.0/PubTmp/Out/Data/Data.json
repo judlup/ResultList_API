@@ -19,5 +19,75 @@
     "Upload": 40,
     "Benefits": [ "Benefit 1", "Benefit 2", "Benefit 3" ],
     "Price": 160.39
+  },
+  {
+    "Name": "Tariff 4",
+    "Download": 200,
+    "Upload": 70,
+    "Benefits": [ "Benefit 1", "Benefit 2" ],
+    "Price": 180.00
+  },
+  {
+    "Name": "Tariff 5",
+    "Download": 50,
+    "Upload": 10,
+    "Benefits": [ "Benefit 1", "Benefit 3" ],
+    "Price": 140.25
+  },
+  {
+    "Name": "Tariff 6",
+    "Download": 70,
+    "Upload": 20,
+    "Benefits": [ "Benefit 1", "Benefit 2", "Benefit 3" ],
+    "Price": 170.0
+  },
+  {
+    "Name": "Tariff 7",
+    "Download": 90,
+    "Upload": 60,
+    "Benefits": [ "Benefit 1", "Benefit 2", "Benefit 3" ],
+    "Price": 150.39
+  },
+  {
+    "Name": "Tariff 8",
+    "Download": 180,
+    "Upload": 90,
+    "Benefits": [ "Benefit 1", "Benefit 2", "Benefit 3" ],
+    "Price": 200.99
+  },
+  {
+    "Name": "Tariff 9",
+    "Download": 200,
+    "Upload": 110,
+    "Benefits": [ "Benefit 1", "Benefit 2", "Benefit 3" ],
+    "Price": 2100.50
+  },
+  {
+    "Name": "Tariff 10",
+    "Download": 250,
+    "Upload": 140,
+    "Benefits": [ "Benefit 1", "Benefit 2", "Benefit 3" ],
+    "Price": 220.70
+  },
+  {
+    "Name": "Tariff 11",
+    "Download": 300,
+    "Upload": 150,
+    "Benefits": [ "Benefit 1", "Benefit 2" ],
+    "Price": 260.99
+  },
+  {
+    "Name": "Tariff 12",
+    "Download": 400,
+    "Upload": 200,
+    "Benefits": [ "Benefit 1", "Benefit 2", "Benefit 3" ],
+    "Price": 300.99
+  },
+  {
+    "Name": "Tariff 13",
+    "Download": 600,
+    "Upload": 300,
+    "Benefits": [ "Benefit 1", "Benefit 2", "Benefit 3" ],
+    "Price": 500.00
   }
 ]
