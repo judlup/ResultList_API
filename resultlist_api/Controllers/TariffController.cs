@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Cors;
+using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using resultlist_api.Models;
 
@@ -7,8 +8,9 @@ namespace resultlist_api.Controllers
     [ApiController]
     [Route("[controller]")]
     public class TariffController : ControllerBase
-    {        
-        [HttpGet(Name = "GetTest")]
+    {
+        [DisableCors]
+        [HttpGet()]
         public dynamic Get()
         {
             dynamic jsonFromFile;

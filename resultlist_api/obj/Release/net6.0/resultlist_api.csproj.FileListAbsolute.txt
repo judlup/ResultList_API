@@ -12,7 +12,6 @@ C:\Users\julia\source\repos\resultlist_api\resultlist_api\bin\Release\net6.0\New
 C:\Users\julia\source\repos\resultlist_api\resultlist_api\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\julia\source\repos\resultlist_api\resultlist_api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\julia\source\repos\resultlist_api\resultlist_api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\julia\source\repos\resultlist_api\resultlist_api\obj\Release\net6.0\resultlist_api.csproj.AssemblyReference.cache
 C:\Users\julia\source\repos\resultlist_api\resultlist_api\obj\Release\net6.0\resultlist_api.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\julia\source\repos\resultlist_api\resultlist_api\obj\Release\net6.0\resultlist_api.AssemblyInfoInputs.cache
 C:\Users\julia\source\repos\resultlist_api\resultlist_api\obj\Release\net6.0\resultlist_api.AssemblyInfo.cs
@@ -27,3 +26,4 @@ C:\Users\julia\source\repos\resultlist_api\resultlist_api\obj\Release\net6.0\res
 C:\Users\julia\source\repos\resultlist_api\resultlist_api\obj\Release\net6.0\ref\resultlist_api.dll
 C:\Users\julia\source\repos\resultlist_api\resultlist_api\obj\Release\net6.0\resultlist_api.pdb
 C:\Users\julia\source\repos\resultlist_api\resultlist_api\obj\Release\net6.0\resultlist_api.genruntimeconfig.cache
+C:\Users\julia\source\repos\resultlist_api\resultlist_api\obj\Release\net6.0\resultlist_api.csproj.AssemblyReference.cache

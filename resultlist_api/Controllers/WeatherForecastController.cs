@@ -1,7 +1,9 @@
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 
 namespace resultlist_api.Controllers
 {
+    [EnableCors("MyPolicy")]
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
