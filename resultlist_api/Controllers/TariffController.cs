@@ -9,7 +9,7 @@ namespace resultlist_api.Controllers
     [Route("[controller]")]
     public class TariffController : ControllerBase
     {
-        [DisableCors]
+        [EnableCors]
         [HttpGet()]
         public dynamic Get()
         {
