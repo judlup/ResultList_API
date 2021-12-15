@@ -3,6 +3,14 @@
 
 This web api was created using .Net 6 and you can use it [here](https://resultlistapi.azurewebsites.net/Tariff)
 
+## Instructions
+
+You can open the solution file using Visual Studio, and run this project in your local environment or if you prefer, you can use the [cloud version](https://resultlistapi.azurewebsites.net/Tariff): 
+
+This is the [Swagger](https://resultlistapi.azurewebsites.net/swagger/index.html) page for this API.
+
+## Example
+
 Response example: 
 
 ```JSON
@@ -32,4 +40,6 @@ Response example:
 
 ```
 
-[Swagger](https://resultlistapi.azurewebsites.net/swagger/index.html)
+## Stack used
+
+This project was built using [.Net 6](https://dotnet.microsoft.com/en-us/) and deployed in [Azure](https://resultlistapi.azurewebsites.net/Tariff) this is its [Swagger](https://resultlistapi.azurewebsites.net/swagger/index.html) page.
